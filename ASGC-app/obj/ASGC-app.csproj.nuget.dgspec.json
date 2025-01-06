@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaois\\ASGC-app\\ASGC-app\\ASGC-app.csproj": {}
+    "C:\\Users\\Legion\\ASGC-app\\ASGC-app\\ASGC-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaois\\ASGC-app\\ASGC-app\\ASGC-app.csproj": {
+    "C:\\Users\\Legion\\ASGC-app\\ASGC-app\\ASGC-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaois\\ASGC-app\\ASGC-app\\ASGC-app.csproj",
+        "projectUniqueName": "C:\\Users\\Legion\\ASGC-app\\ASGC-app\\ASGC-app.csproj",
         "projectName": "ASGC-app",
-        "projectPath": "C:\\Users\\jaois\\ASGC-app\\ASGC-app\\ASGC-app.csproj",
-        "packagesPath": "C:\\Users\\jaois\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaois\\ASGC-app\\ASGC-app\\obj\\",
+        "projectPath": "C:\\Users\\Legion\\ASGC-app\\ASGC-app\\ASGC-app.csproj",
+        "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Legion\\ASGC-app\\ASGC-app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jaois\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
