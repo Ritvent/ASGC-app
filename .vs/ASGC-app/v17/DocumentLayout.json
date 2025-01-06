@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jaois\\ASGC-app\\",
+  "WorkspaceRootPath": "C:\\Users\\Legion\\ASGC-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{833A4957-4D1D-4853-9B4E-2375CDF8F163}|ASGC-app\\ASGC-app.csproj|c:\\users\\jaois\\asgc-app\\asgc-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{833A4957-4D1D-4853-9B4E-2375CDF8F163}|ASGC-app\\ASGC-app.csproj|c:\\users\\legion\\asgc-app\\asgc-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{833A4957-4D1D-4853-9B4E-2375CDF8F163}|ASGC-app\\ASGC-app.csproj|solutionrelative:asgc-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jaois\\ASGC-app\\ASGC-app\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\ASGC-app\\ASGC-app\\Program.cs",
               "RelativeDocumentMoniker": "ASGC-app\\Program.cs",
-              "ToolTip": "C:\\Users\\jaois\\ASGC-app\\ASGC-app\\Program.cs",
+              "ToolTip": "C:\\Users\\Legion\\ASGC-app\\ASGC-app\\Program.cs",
               "RelativeToolTip": "ASGC-app\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T23:53:00.353Z",
               "EditorCaption": ""
