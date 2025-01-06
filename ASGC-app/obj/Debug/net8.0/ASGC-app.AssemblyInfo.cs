@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASGC-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69d9dd1d23fd569b6dace2b641a4d843b48f8460")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASGC-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASGC-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
