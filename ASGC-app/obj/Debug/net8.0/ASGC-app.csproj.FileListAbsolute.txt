@@ -1,0 +1,15 @@
+C:\Users\Legion\ASGC-app\ASGC-app\bin\Debug\net8.0\ASGC-app.exe
+C:\Users\Legion\ASGC-app\ASGC-app\bin\Debug\net8.0\ASGC-app.deps.json
+C:\Users\Legion\ASGC-app\ASGC-app\bin\Debug\net8.0\ASGC-app.runtimeconfig.json
+C:\Users\Legion\ASGC-app\ASGC-app\bin\Debug\net8.0\ASGC-app.dll
+C:\Users\Legion\ASGC-app\ASGC-app\bin\Debug\net8.0\ASGC-app.pdb
+C:\Users\Legion\ASGC-app\ASGC-app\obj\Debug\net8.0\ASGC-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\ASGC-app\ASGC-app\obj\Debug\net8.0\ASGC-app.AssemblyInfoInputs.cache
+C:\Users\Legion\ASGC-app\ASGC-app\obj\Debug\net8.0\ASGC-app.AssemblyInfo.cs
+C:\Users\Legion\ASGC-app\ASGC-app\obj\Debug\net8.0\ASGC-app.csproj.CoreCompileInputs.cache
+C:\Users\Legion\ASGC-app\ASGC-app\obj\Debug\net8.0\ASGC-app.sourcelink.json
+C:\Users\Legion\ASGC-app\ASGC-app\obj\Debug\net8.0\ASGC-app.dll
+C:\Users\Legion\ASGC-app\ASGC-app\obj\Debug\net8.0\refint\ASGC-app.dll
+C:\Users\Legion\ASGC-app\ASGC-app\obj\Debug\net8.0\ASGC-app.pdb
+C:\Users\Legion\ASGC-app\ASGC-app\obj\Debug\net8.0\ASGC-app.genruntimeconfig.cache
+C:\Users\Legion\ASGC-app\ASGC-app\obj\Debug\net8.0\ref\ASGC-app.dll
